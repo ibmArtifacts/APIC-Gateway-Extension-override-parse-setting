@@ -13,7 +13,7 @@ The following is the original default 4 MB sizing for the max document size:
 After uploading the gateway-extension to the gateway from the topology, and restarting the gateway pod, the size will be updated:  
 <img width="849" height="523" alt="image" src="https://github.com/user-attachments/assets/18e7bb08-da16-4447-a9cd-2b21a55de60e" />
 
-The [gw-extention.zip](https://github.com/ibmArtifacts/APIC-Gateway-Extension-override-parse-setting/blob/main/gw-extention.zip) is ready to be uploaded to the gateway in the topology to be used.
+The [gw-extension.zip](https://github.com/ibmArtifacts/APIC-Gateway-Extension-override-parse-setting/blob/main/gw-extention.zip) is ready to be uploaded to the gateway in the topology to be used.
 You may unzip and update the value per your needs.
 
 To deploy the zip, navigate to the gateway in the topology section of the Cloud Manager, click on the ellipse (dot-dot-dot) of the gateway to choose Configure Gateway Extension.
