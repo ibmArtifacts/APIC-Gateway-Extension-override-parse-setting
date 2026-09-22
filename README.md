@@ -45,6 +45,7 @@ After restarting the gateway, the changes will be reflected once the gateway com
       "files":[
          {
             "filename":"override-parse-defaults.json",
+            "deploy":"immediate",
             "type":"gwd_extension"
          }
       ]
